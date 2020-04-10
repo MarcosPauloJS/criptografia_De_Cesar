@@ -3,7 +3,7 @@
 const cifra = { 
      messagemOriginal: "",
      chave : 15,
-     messagemCriptografada: "IDSDH KTTB D FJT KDRT EPGTRT HTG BPH EDJRDH HPQTB D FJT KDRT GTPABTCIT T"
+     messagemCriptografada: "rfpbyure b frh grzcb r tnaune grzcb"
 };
 
 // esse loop e responsavel por pecorrer todas as posições de um array

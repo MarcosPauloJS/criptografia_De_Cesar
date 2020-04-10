@@ -1,8 +1,8 @@
 
 // dados para fazer a criptografia
 const cifra = { 
-     messagemOriginal:"Todos veem o que voce parece ser mas poucos sabem o que voce realmente e",
-     chave : 15,
+     messagemOriginal:"meu nome e sushi",
+     chave : 5,
      messagemCriptografada: ""
 };
 
